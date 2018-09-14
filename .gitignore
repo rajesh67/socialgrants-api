@@ -1,0 +1,6 @@
+#exclude everything execpt required filed
+#/*
+
+#!/*.sqlite3
+#!/*.pyc
+#!/**/*.pyc
