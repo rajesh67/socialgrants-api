@@ -27,7 +27,7 @@ SECRET_KEY = '1r7m(26x+um-c+gv@*9p50(p3gw2)8_#29)rpullri7bsl4h7t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost","127.0.0.1","10.0.2.2","139.59.95.130:8000"]
+ALLOWED_HOSTS = ["localhost","127.0.0.1","10.0.2.2","139.59.95.130"]
 
 REST_FRAMEWORK = {
     # DateTimeFormat
